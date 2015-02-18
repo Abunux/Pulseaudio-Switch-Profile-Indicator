@@ -32,3 +32,6 @@ Todo :
 - A nice set of icons
 - A way to handle the icon in case of several sound cards
 - Update the icon (done but removed) and the radio button in case of external change
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/11058053/6246189/70adf2f4-b766-11e4-8e33-3020d753433c.png)
