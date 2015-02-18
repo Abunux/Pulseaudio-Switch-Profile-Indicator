@@ -1,5 +1,5 @@
 # paspi
-Pulseausdio Switch Profile Indicator (PASPI)
+Pulseaudio Switch Profile Indicator (PASPI)
 
 A simple tray indicator to quickly change pulseaudio profile
 (for example, to switch easily to HDMI when watching a movie)
